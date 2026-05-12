@@ -8,25 +8,18 @@ imprima no output/console 5 valores TRUE e 5 valores FALSE.
 
 */
 
-console.log(10 > 20); // maior que
-console.log(10 < 20); // menor que
-console.log(10 >= 20); // mair ou igual a
-console.log(10 <= 20); // menor ou igual a
-console.log(10 != 20); // diferente
-console.log(10 == 20); // igual
+//valores TRUE
+console.log("valor TRUE: ");
+console.log(a < b);
+console.log(a != b);
+console.log(a <= b);
+console.log(b >= a);
+console.log(b !=  a);
 
-let a = 1; // number 
-let b = "1"; // string
-let c = "1"; // string
-
-// = atribuição
-// == compara somente o valor
-// === compara valor e tipo
-
-console.log(a == b); // true
-console.log(a === b); // false
-console.log(b === c); // false
-
-console.log(a = b); // true
-console.log(a !== b); // true
-console.log(b == c); // true
+//valores FALSE
+console.log("valor FALSE: ");
+console.log(a < b);
+console.log(a == b);
+console.log(a >= b);
+console.log(b <= a);
+console.log(b ==  a);
