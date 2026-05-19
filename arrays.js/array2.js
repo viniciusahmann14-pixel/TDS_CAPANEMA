@@ -4,15 +4,13 @@ const nomes = []; // array vazio
 //  iserir 7 nomes que existam na sala de aula no array
 // imprimir os nomes no terminal/output
 
-let nomes = ["vitor", "matheus", "gabriel", "vinícius", "marlo", "luís", "victor"];
+const nomes = []; // array vazio
+console.log(nomes);
 
-console.log(nome[0]);
-console.log(nome[1]);
-console.log(nome[2]);
-console.log(nome[3]);
-console.log(nome[4]);
-console.log(nome[5]);
-
-console.log(nome,length);
-nome[4] "Mouse"
-nome[5] "Mouse"
+nomes[o] = "lucas"
+nomes[1] = "gabliel"
+nomes[2] = "vinicius"
+nomes[3] = "vitor"
+nomes[4] = "luiz"
+nomes[5] = "murilo"
+nomes[6] = "roberto"
